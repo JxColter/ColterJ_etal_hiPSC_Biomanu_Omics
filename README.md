@@ -1,4 +1,5 @@
 # Multi-omics analysis of environmentally adaptive cell-state remodeling during human iPSC biomanufacturing
+https://doi.org/10.64898/2026.05.26.727850
 
 ## Overview
 
